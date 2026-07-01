@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "e714f069115d2adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "45cf920c03283684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2f05d62c84d3da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Meeting Notes/_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73e3bcf03ab675e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "164a1b69fc585ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a40e2384b51fd6db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f854594859a5bbce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "709479ddd63e6f46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2b41981712f0cfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310d8892ccfacd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23cbab15eb0a98dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vault/Meeting Notes/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _index"
+            }
+          },
+          {
+            "id": "8a50396a18cef184",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vault/Meeting Notes/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _index"
+            }
+          },
+          {
+            "id": "8a7f8b0404f7975f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c430ca3085a955b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f0caab06eb6021a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vault/Meeting Notes/_index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6a2f05d62c84d3da",
+  "lastOpenFiles": [
+    "Output/2026-06-30-world-cup-spain-france.png.b64.txt",
+    "Output/2026-06-30-world-cup-stadium.png.b64.txt",
+    "vault/Meeting Notes/_index.md.tmp.7332.f66f7ba72e0f",
+    "vault/Meeting Notes/world-cup-2026-winner-article.md",
+    "vault/Meeting Notes/world-cup-2026-winner-article.md.tmp.7332.7f1d994694b9",
+    "Output/2026-06-30-world-cup-2026-winner-prediction.html.tmp.7332.2b0ab83b82d1",
+    "Output/2026-06-30-world-cup-2026-winner-prediction.md.tmp.7332.c0de966642a7",
+    "Output/2026-06-30-world-cup-2026-winner-prediction.md.tmp.7332.6f1a0849e577",
+    "Output/2026-06-30-world-cup-spain-france.png",
+    "Output/2026-06-30-world-cup-stadium.png",
+    "yuval/outputs/2026-06-30-world-cup-spain-france.png",
+    "yuval/tmp/response.json",
+    "yuval/outputs/2026-06-30-world-cup-stadium.txt",
+    "yuval/outputs/2026-06-30-world-cup-stadium.txt.tmp.7332.ba00ff819786",
+    "yuval/outputs/2026-06-30-world-cup-stadium.png",
+    "gpt-image-response.json",
+    "Output/2026-06-30-world-cup-2026-winner-prediction.md",
+    "Content/2026-06-30-world-cup-2026-winner-prediction.md",
+    "vault/Brand Guidelines/_index.md",
+    "vault/Meeting Notes/agent-chen.md",
+    "vault/Brand Guidelines/yael-style-guide.md",
+    "vault/Meeting Notes/project-config-files.md",
+    "vault/Meeting Notes/yuval-asset-folders.md",
+    "vault/Meeting Notes/output-folder.md",
+    "vault/Meeting Notes/content-folder.md",
+    "vault/Meeting Notes/chen-search-log.md",
+    "vault/Meeting Notes/skill-obsidian-suite.md",
+    "vault/Meeting Notes/skill-gpt-image-gen.md",
+    "vault/Meeting Notes/agent-yuval.md",
+    "vault/Meeting Notes/agent-yael.md",
+    "vault/Meeting Notes/claude-md-root-config.md",
+    "vault/Meeting Notes/_index.md",
+    "vault/Meeting Notes/codebase-file-map.md"
+  ]
+}
